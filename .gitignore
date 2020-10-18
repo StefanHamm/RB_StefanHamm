@@ -1,0 +1,14 @@
+$ git rm obj
+$ git rm bin
+RB_Test/
+bin
+obj
+Uebung3_1/
+*.o
+*.log
+*.depend
+*.layout
+nnxt.h
+*.cbp
+
+PG2_Uebung/
